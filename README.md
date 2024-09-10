@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity, C#, Maya**
 
-- 💬 Ask me about **Unity, C#, Maya**
+- 💬 Ask me about **Unity, C#, Maya, Game Development, 3D Art**
 
 - 📫 How to reach me **anujchouhan112@gmail.com**
 
